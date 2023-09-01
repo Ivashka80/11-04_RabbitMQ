@@ -27,6 +27,8 @@
 ### *Ответ*
 <details>
 
+![image](https://github.com/Ivashka80/RabbitMQ/assets/121082757/bab35c8b-4440-434e-83be-80f2c80dbe3a)
+
 </details>
 
 ---
@@ -91,7 +93,6 @@ $ rabbitmqadmin get queue='hello'
 
 ### *Ответ*
 <details>
-![image](https://github.com/Ivashka80/RabbitMQ/assets/121082757/bab35c8b-4440-434e-83be-80f2c80dbe3a)
 
 </details>
 
