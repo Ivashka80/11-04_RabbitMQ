@@ -57,6 +57,18 @@ $ pip install pika
 ### *Ответ*
 <details>
 
+![image](https://github.com/Ivashka80/11-04_RabbitMQ/assets/121082757/59dc2e16-6658-495d-bacd-f147c8b53f47)
+
+![image](https://github.com/Ivashka80/11-04_RabbitMQ/assets/121082757/879e7808-9256-4b3b-9a99-dc87e1c59b16)
+
+![image](https://github.com/Ivashka80/11-04_RabbitMQ/assets/121082757/c960996b-800f-44b1-b4d4-ff32c6d224ad)
+
+![image](https://github.com/Ivashka80/11-04_RabbitMQ/assets/121082757/0ebeb230-70ef-4a5b-af5a-ef4e2e0851b1)
+
+![image](https://github.com/Ivashka80/11-04_RabbitMQ/assets/121082757/194d704c-e3a9-4467-a9fb-4f8ff0e2683c)
+
+![image](https://github.com/Ivashka80/11-04_RabbitMQ/assets/121082757/552c6d4b-a56a-4a3e-b465-ffea695206e8)
+
 </details>
 ---
 
