@@ -29,6 +29,8 @@
 
 ![image](https://github.com/Ivashka80/RabbitMQ/assets/121082757/bab35c8b-4440-434e-83be-80f2c80dbe3a)
 
+![image](https://github.com/Ivashka80/RabbitMQ/assets/121082757/6719276e-d951-40e0-b802-472ecf2516fb)
+
 </details>
 
 ---
