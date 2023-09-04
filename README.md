@@ -55,17 +55,19 @@ $ pip install pika
 ### *Ответ*
 <details>
 
-![image](https://github.com/Ivashka80/11-04_RabbitMQ/assets/121082757/59dc2e16-6658-495d-bacd-f147c8b53f47)
+![image](https://github.com/Ivashka80/11-04_RabbitMQ/assets/121082757/f06acc55-cc19-4e2c-a164-ebf155887784)
 
-![image](https://github.com/Ivashka80/11-04_RabbitMQ/assets/121082757/879e7808-9256-4b3b-9a99-dc87e1c59b16)
+![image](https://github.com/Ivashka80/11-04_RabbitMQ/assets/121082757/073d886a-6083-491b-893f-53b1ae594c64)
 
-![image](https://github.com/Ivashka80/11-04_RabbitMQ/assets/121082757/c960996b-800f-44b1-b4d4-ff32c6d224ad)
+![image](https://github.com/Ivashka80/11-04_RabbitMQ/assets/121082757/222277bd-7caf-4a7d-9ce6-4aeb57760b20)
 
-![image](https://github.com/Ivashka80/11-04_RabbitMQ/assets/121082757/0ebeb230-70ef-4a5b-af5a-ef4e2e0851b1)
+![image](https://github.com/Ivashka80/11-04_RabbitMQ/assets/121082757/1bb5b8b2-bb0f-4cea-8eb6-20833dc519e8)
 
-![image](https://github.com/Ivashka80/11-04_RabbitMQ/assets/121082757/194d704c-e3a9-4467-a9fb-4f8ff0e2683c)
+![image](https://github.com/Ivashka80/11-04_RabbitMQ/assets/121082757/0b1bd5a1-aee1-4908-936b-a46eabec2859)
 
-![image](https://github.com/Ivashka80/11-04_RabbitMQ/assets/121082757/552c6d4b-a56a-4a3e-b465-ffea695206e8)
+![image](https://github.com/Ivashka80/11-04_RabbitMQ/assets/121082757/e654dc49-9e8b-4027-9025-f6e527a0ed24)
+
+![image](https://github.com/Ivashka80/11-04_RabbitMQ/assets/121082757/d56870e0-167b-4c40-90cb-f7a607186576)
 
 </details>
 ---
