@@ -27,9 +27,7 @@
 ### *Ответ*
 <details>
 
-![image](https://github.com/Ivashka80/RabbitMQ/assets/121082757/bab35c8b-4440-434e-83be-80f2c80dbe3a)
-
-![image](https://github.com/Ivashka80/RabbitMQ/assets/121082757/6719276e-d951-40e0-b802-472ecf2516fb)
+![image](https://github.com/Ivashka80/11-04_RabbitMQ/assets/121082757/974e15e4-9a2c-4d35-a8b1-d97024c03e37)
 
 </details>
 
