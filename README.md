@@ -113,7 +113,7 @@ $ rabbitmqadmin get queue='hello'
 ### *Ответ*
 <details>
 
-![image](https://github.com/Ivashka80/11-04_RabbitMQ/assets/121082757/ffb805c3-db48-446d-a96b-4420866d1864)
+![image](https://github.com/Ivashka80/11-04_RabbitMQ/assets/121082757/c5f4d1dc-d236-4240-8eea-513bab223f15)
 
 </details>
 
@@ -124,6 +124,7 @@ $ rabbitmqadmin get queue='hello'
 ### *Ответ*
 <details>
 
+![image](https://github.com/Ivashka80/11-04_RabbitMQ/assets/121082757/494fed05-ac2e-44b0-bf4f-c8b52f2f6ccc)
 
 </details>
 
