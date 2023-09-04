@@ -95,6 +95,13 @@ $ cat /etc/hosts
 $ rabbitmqctl cluster_status
 ```
 
+### *Ответ*
+<details>
+
+![image](https://github.com/Ivashka80/11-04_RabbitMQ/assets/121082757/fbda8bd0-aac7-4751-9234-9650226c397b)
+
+</details>
+
 Для закрепления материала снова запустите скрипт producer.py и приложите скриншот выполнения команды на каждой из нод:
 
 ```shell script
